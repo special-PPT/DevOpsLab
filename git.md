@@ -29,3 +29,19 @@
   156  git push origin main
   157  git status
   158  git add git.md
+  190  vim git.md
+  191  git status
+  192  git pull origin dev
+  193  git status
+  194  git pull origin dev
+  195  git merge origin/dev
+  196  git status
+  197  ll
+  198  vim git.md
+  199  git push origin/dev
+  200  git push origin dev
+  201  git checkout dev2
+  202  ll
+  203  vim git.md
+  204  git status
+
