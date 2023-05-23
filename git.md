@@ -24,3 +24,8 @@
   151  git pull origin main
   152  ll
   153  git branch
+  154  cat git.md
+  155  vim git.md
+  156  git push origin main
+  157  git status
+  158  git add git.md
