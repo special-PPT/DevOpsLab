@@ -17,3 +17,10 @@
   112  git status
   113  git checkout dev
   114  git status
+  147  git branch
+  148  git push origin main
+  149  git pull origin main
+  150  git config pull.rebase false
+  151  git pull origin main
+  152  ll
+  153  git branch
