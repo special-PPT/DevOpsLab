@@ -17,3 +17,17 @@
   112  git status
   113  git checkout dev
   114  git status
+  147  git branch
+  148  git push origin main
+  149  git pull origin main
+  150  git config pull.rebase false
+  151  git pull origin main
+  152  ll
+  153  git branch
+  154  cat git.md
+  155  vim git.md
+  156  git push origin main
+  157  git status
+  158  git add git.md
+  159  git commit -m "update git.md"
+  160  git push origin main
