@@ -29,3 +29,8 @@
   156  git push origin main
   157  git status
   158  git add git.md
+  206  history
+  207  vim git.md
+  208  git add git.md
+  209  git commit -m "update git.md in dev2"
+  210  git checkout main
